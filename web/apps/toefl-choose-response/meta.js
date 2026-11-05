@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-choose-response", "title": "Listen and Choose a Response", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Hear one line and choose the best reply, as in the new TOEFL Listening task.", "content": ["responses.json"], "n": 61};
